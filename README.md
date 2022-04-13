@@ -156,3 +156,6 @@ This is a fork from the original program created by Nikolay A. Krylov (Thank you
 * Added DNS search domain option
 * Added password option from cli
 * Fixed typo
+
+# Links
+Original repository: <https://gitlab.com/cpvpn/cpyvpn>
