@@ -1,0 +1,3 @@
+include LICENSE LICENSE-GPLv3 README.md
+global-exclude .git*
+
