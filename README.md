@@ -149,3 +149,10 @@ Copyright &copy; 2020,2021 Nikolay A. Krylov
 All rights reserved.
 
 The cpyvpn is a free software package, distributed under GPLv3 license. See the file LICENSE for more details.
+
+# Note
+This is a fork from the original program created by Nikolay A. Krylov (Thank you Nick!) with some enchancements made by me:
+* Added DNS priority
+* Added DNS search domain option
+* Added password option from cli
+* Fixed typo
